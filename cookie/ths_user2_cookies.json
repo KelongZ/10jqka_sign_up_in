@@ -1,0 +1,73 @@
+[
+    {
+        "domain": ".10jqka.com.cn",
+        "expiry": 1572488372.751365,
+        "httpOnly": false,
+        "name": "u_name",
+        "path": "/",
+        "secure": false,
+        "value": "KelongZ"
+    },
+    {
+        "domain": "upass.10jqka.com.cn",
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "secure": false,
+        "value": "p662q0logf7enovdnb7inuve666kdgg5"
+    },
+    {
+        "domain": "upass.10jqka.com.cn",
+        "expiry": 1572488372.751287,
+        "httpOnly": false,
+        "name": "ths_login_uname",
+        "path": "/",
+        "secure": false,
+        "value": "KelongZ"
+    },
+    {
+        "domain": ".10jqka.com.cn",
+        "expiry": 1572488372.751326,
+        "httpOnly": false,
+        "name": "user",
+        "path": "/",
+        "secure": false,
+        "value": "MDpLZWxvbmdaOjpOb25lOjUwMDo1MTA0MDM3MDE6NywxMTExMTExMTExMSw0MDs0NCwxMSw0MDs2LDEsNDA7NSwxLDQwOzEsMSw0MDsyLDEsNDA7MywxLDQwOzUsMSw0MDs4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxLDQwOjo6OjUwMDQwMzcwMToxNTcxODgzNTcyOjo6MTU3MTYyNTYwMDo2MDQ4MDA6MDoxM2E4N2QyMTI2NmQ5NTQ0MmQxZDBlNDhhODBhYTUzNWM6ZGVmYXVsdF8yOjA%3D"
+    },
+    {
+        "domain": ".10jqka.com.cn",
+        "expiry": 1572488372.751347,
+        "httpOnly": false,
+        "name": "userid",
+        "path": "/",
+        "secure": false,
+        "value": "500403701"
+    },
+    {
+        "domain": ".10jqka.com.cn",
+        "expiry": 1572488372.7514,
+        "httpOnly": false,
+        "name": "ticket",
+        "path": "/",
+        "secure": false,
+        "value": "9d06a04352b07308dbb0b0a9bc108751"
+    },
+    {
+        "domain": ".10jqka.com.cn",
+        "expiry": 1572488372.751382,
+        "httpOnly": false,
+        "name": "escapename",
+        "path": "/",
+        "secure": false,
+        "value": "KelongZ"
+    },
+    {
+        "domain": ".10jqka.com.cn",
+        "expiry": 2527286400,
+        "httpOnly": false,
+        "name": "v",
+        "path": "/",
+        "secure": false,
+        "value": "AowtpC_1PW7kXCkSnAmTTRIMXeG9xTBvMmlEM-ZNmDfacSLXDtUA_4J5FMI1"
+    }
+]
